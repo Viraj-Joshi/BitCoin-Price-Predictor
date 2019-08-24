@@ -19,5 +19,5 @@ in one localized space.
   * Find a n length cycle with experimentally lowest found MAPE and highest found returns (In Progress)
   
 # Returns
-* Each method seeks to generate buy-sell dates starting from 2019. As of now, LSTM generates about $80000. FB Prophet Method 2 generates about $2000 dollars. FB Prophet Method 1 generates a negative amount, but predicates a postive amount.
-* FB Prophet Method 2 is a work in progress.
+* Each method seeks to generate buy-sell dates starting from 2019. As of now, LSTM generates about $80000. FB Prophet Method 2 generates about $2000 dollars. FB Prophet Method 2 generates a negative amount, but predicates a postive amount.
+* FB Prophet Method 2 is a work in progress
